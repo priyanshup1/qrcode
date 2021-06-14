@@ -1,4 +1,6 @@
-﻿absl-py==0.12.0
+PyQRCode==1.2.1
+virtualenv==14.0.6
+ absl-py==0.12.0
 altair==4.1.0
 argon2-cffi==20.1.0
 astor==0.8.1
