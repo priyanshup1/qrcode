@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn import datasets
+
 import seaborn as sn 
 import matplotlib as plt
 import pyqrcode
