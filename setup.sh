@@ -1,11 +1,10 @@
 mkdir -p ~/.streamlit/
-echo "\
-[gereral]\n\
-email=\"your-email@domain.com\"n\
-" > ~/.streamlit/creadentials.toml
+
 echo "\
 [server]\n\
 headless = true\n\
-enableCORS = false\n\
 port = $PORT\n\
+enableCORS = false\n\
+\n\
 " > ~/.streamlit/config.toml
+© 2021 GitHub, Inc.
